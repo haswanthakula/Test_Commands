@@ -1,0 +1,462 @@
+{
+    "movies":
+    [
+        {
+            "id": 1,
+            "title": "Iron Man (2008)",
+            "price": 19.99,
+            "description": "The first Marvel Cinematic Universe movie that introduces Tony Stark, a genius billionaire who becomes Iron Man.",
+            "category": "superhero",
+            "image": "https://example.com/images/ironman.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 1500
+            }
+        },
+        {
+            "id": 2,
+            "title": "The Incredible Hulk (2008)",
+            "price": 18.99,
+            "description": "Bruce Banner becomes the Hulk as he searches for a cure and battles the monstrous Abomination.",
+            "category": "superhero",
+            "image": "https://example.com/images/hulk.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 1200
+            }
+        },
+        {
+            "id": 3,
+            "title": "Iron Man 2 (2010)",
+            "price": 20.99,
+            "description": "Tony Stark faces a new adversary, Whiplash, and explores the responsibilities of being Iron Man.",
+            "category": "superhero",
+            "image": "https://example.com/images/ironman2.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 1300
+            }
+        },
+        {
+            "id": 4,
+            "title": "Thor (2011)",
+            "price": 19.99,
+            "description": "Thor, the God of Thunder, is cast out of Asgard and must prove himself worthy to wield Mjolnir.",
+            "category": "superhero",
+            "image": "https://example.com/images/thor.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 1400
+            }
+        },
+        {
+            "id": 5,
+            "title": "Captain America: The First Avenger (2011)",
+            "price": 19.99,
+            "description": "Steve Rogers transforms into Captain America and fights Hydra in World War II.",
+            "category": "superhero",
+            "image": "https://example.com/images/captainamerica.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 1500
+            }
+        },
+        {
+            "id": 6,
+            "title": "Marvel’s The Avengers (2012)",
+            "price": 24.99,
+            "description": "Earth's mightiest heroes, including Iron Man, Captain America, Thor, and Hulk, assemble to stop Loki's invasion.",
+            "category": "superhero",
+            "image": "https://example.com/images/avengers.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 2000
+            }
+        },
+        {
+            "id": 7,
+            "title": "Iron Man 3 (2013)",
+            "price": 19.99,
+            "description": "Tony Stark confronts his past and battles the elusive Mandarin.",
+            "category": "superhero",
+            "image": "https://example.com/images/ironman3.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 1400
+            }
+        },
+        {
+            "id": 8,
+            "title": "Thor: The Dark World (2013)",
+            "price": 19.99,
+            "description": "Thor battles the Dark Elves to protect the Nine Realms and save Jane Foster.",
+            "category": "superhero",
+            "image": "https://example.com/images/thordarkworld.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 1200
+            }
+        },
+        {
+            "id": 9,
+            "title": "Captain America: The Winter Soldier (2014)",
+            "price": 21.99,
+            "description": "Steve Rogers battles Hydra and his old friend, now the Winter Soldier.",
+            "category": "superhero",
+            "image": "https://example.com/images/wintersoldier.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 1600
+            }
+        },
+        {
+            "id": 10,
+            "title": "Guardians of the Galaxy (2014)",
+            "price": 20.99,
+            "description": "A group of intergalactic misfits teams up to stop a powerful villain from destroying the galaxy.",
+            "category": "superhero",
+            "image": "https://example.com/images/gotg.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 1600
+            }
+        },
+        {
+            "id": 11,
+            "title": "Avengers: Age of Ultron (2015)",
+            "price": 24.99,
+            "description": "The Avengers face Ultron, a rogue AI intent on world destruction.",
+            "category": "superhero",
+            "image": "https://example.com/images/ageofultron.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 1800
+            }
+        },
+        {
+            "id": 12,
+            "title": "Ant-Man (2015)",
+            "price": 18.99,
+            "description": "Scott Lang becomes the tiny but mighty hero, Ant-Man, to pull off a heist.",
+            "category": "superhero",
+            "image": "https://example.com/images/antman.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 1500
+            }
+        },
+        {
+            "id": 13,
+            "title": "Captain America: Civil War (2016)",
+            "price": 22.99,
+            "description": "The Avengers are divided over the Sokovia Accords, leading to a battle between Team Iron Man and Team Captain America.",
+            "category": "superhero",
+            "image": "https://example.com/images/civilwar.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 1900
+            }
+        },
+        {
+            "id": 14,
+            "title": "Doctor Strange (2016)",
+            "price": 19.99,
+            "description": "A brilliant but arrogant neurosurgeon learns the mystic arts after a life-changing accident.",
+            "category": "superhero",
+            "image": "https://example.com/images/doctorstrange.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 1400
+            }
+        },
+        {
+            "id": 15,
+            "title": "Guardians of the Galaxy Vol. 2 (2017)",
+            "price": 20.99,
+            "description": "The Guardians unravel Peter Quill's mysterious parentage while battling new threats.",
+            "category": "superhero",
+            "image": "https://example.com/images/gotg2.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 1600
+            }
+        },
+        {
+            "id": 16,
+            "title": "Spider-Man: Homecoming (2017)",
+            "price": 21.99,
+            "description": "Peter Parker balances high school life with his superhero duties as Spider-Man.",
+            "category": "superhero",
+            "image": "https://example.com/images/spiderman_homecoming.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 1700
+            }
+        },
+        {
+            "id": 17,
+            "title": "Thor: Ragnarok (2017)",
+            "price": 22.99,
+            "description": "Thor must escape the planet Sakaar to save Asgard from Hela and the impending Ragnarok.",
+            "category": "superhero",
+            "image": "https://example.com/images/thorragnarok.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 1700
+            }
+        },
+        {
+            "id": 18,
+            "title": "Black Panther (2018)",
+            "price": 21.99,
+            "description": "T'Challa returns to Wakanda to claim his throne as king, but faces challenges from an enemy threatening his nation.",
+            "category": "superhero",
+            "image": "https://example.com/images/blackpanther.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 1800
+            }
+        },
+        {
+            "id": 19,
+            "title": "Avengers: Infinity War (2018)",
+            "price": 26.99,
+            "description": "The Avengers and Guardians unite to stop Thanos from collecting all six Infinity Stones.",
+            "category": "superhero",
+            "image": "https://example.com/images/infinitywar.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 2400
+            }
+        },
+        {
+            "id": 20,
+            "title": "Ant-Man and the Wasp (2018)",
+            "price": 19.99,
+            "description": "Scott Lang teams up with Hope van Dyne as the Wasp to rescue her mother from the quantum realm.",
+            "category": "superhero",
+            "image": "https://example.com/images/antmanandwasp.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 1500
+            }
+        },
+        {
+            "id": 21,
+            "title": "Captain Marvel (2019)",
+            "price": 20.99,
+            "description": "Carol Danvers becomes Captain Marvel as she uncovers her true identity and her role in a galactic conflict.",
+            "category": "superhero",
+            "image": "https://example.com/images/captainmarvel.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 1400
+            }
+        },
+        {
+            "id": 22,
+            "title": "Avengers: Endgame (2019)",
+            "price": 29.99,
+            "description": "The Avengers take one final stand against Thanos in this epic conclusion to the Infinity Saga.",
+            "category": "superhero",
+            "image": "https://example.com/images/endgame.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 2500
+            }
+        },
+        {
+            "id": 23,
+            "title": "Spider-Man: Far From Home (2019)",
+            "price": 21.99,
+            "description": "Peter Parker faces a new threat in Europe while grappling with the loss of Tony Stark.",
+            "category": "superhero",
+            "image": "https://example.com/images/spiderman_ffh.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 1800
+            }
+        },
+        {
+            "id": 24,
+            "title": "Black Widow (2021)",
+            "price": 20.99,
+            "description": "Natasha Romanoff confronts her past as a spy and reunites with her family.",
+            "category": "superhero",
+            "image": "https://example.com/images/blackwidow.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 1300
+            }
+        },
+        {
+            "id": 25,
+            "title": "Shang-Chi and the Legend of the Ten Rings (2021)",
+            "price": 22.99,
+            "description": "Shang-Chi confronts the past he thought he left behind when drawn into the web of the mysterious Ten Rings organization.",
+            "category": "superhero",
+            "image": "https://example.com/images/shangchi.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 1600
+            }
+        },
+        {
+            "id": 26,
+            "title": "Eternals (2021)",
+            "price": 24.99,
+            "description": "The Eternals, an ancient alien race, reunite to protect Earth from their evil counterparts, the Deviants.",
+            "category": "superhero",
+            "image": "https://example.com/images/eternals.jpg",
+            "rating": {
+                "rate": 4.2,
+                "count": 1200
+            }
+        },
+        {
+            "id": 27,
+            "title": "Spider-Man: No Way Home (2021)",
+            "price": 25.99,
+            "description": "Peter Parker seeks help from Doctor Strange, but their spell goes awry, unleashing villains from other dimensions.",
+            "category": "superhero",
+            "image": "https://example.com/images/spiderman_nwh.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 2200
+            }
+        },
+        {
+            "id": 28,
+            "title": "Doctor Strange in the Multiverse of Madness (2022)",
+            "price": 26.99,
+            "description": "Doctor Strange traverses the multiverse to confront a powerful new adversary and protect reality itself.",
+            "category": "superhero",
+            "image": "https://example.com/images/ds_multiverse.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 1400
+            }
+        },
+        {
+            "id": 29,
+            "title": "Thor: Love and Thunder (2022)",
+            "price": 24.99,
+            "description": "Thor teams up with Valkyrie, Korg, and Jane Foster, now the Mighty Thor, to battle Gorr the God Butcher.",
+            "category": "superhero",
+            "image": "https://example.com/images/thor_loveandthunder.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 1500
+            }
+        },
+        {
+            "id": 30,
+            "title": "Black Panther: Wakanda Forever (2022)",
+            "price": 28.99,
+            "description": "The people of Wakanda fight to protect their home after the death of King T’Challa.",
+            "category": "superhero",
+            "image": "https://example.com/images/bp_wakandaforever.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 1700
+            }
+        },
+        {
+            "id": 31,
+            "title": "Ant-Man and the Wasp: Quantumania (2023)",
+            "price": 26.99,
+            "description": "Scott Lang and Hope van Dyne navigate the Quantum Realm and face Kang the Conqueror.",
+            "category": "superhero",
+            "image": "https://example.com/images/antman_quantumania.jpg",
+            "rating": {
+                "rate": 4.4,
+                "count": 1300
+            }
+        },
+        {
+            "id": 32,
+            "title": "Guardians of the Galaxy Vol. 3 (2023)",
+            "price": 27.99,
+            "description": "The Guardians face new challenges as they strive to protect each other and the galaxy.",
+            "category": "superhero",
+            "image": "https://example.com/images/gotg3.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 1800
+            }
+        },
+        {
+            "id": 33,
+            "title": "The Marvels (2023)",
+            "price": 25.99,
+            "description": "Captain Marvel, Ms. Marvel, and Monica Rambeau team up to unravel an intergalactic mystery.",
+            "category": "superhero",
+            "image": "https://example.com/images/themarvels.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 1200
+            }
+        },
+        {
+            "id": 34,
+            "title": "Deadpool & Wolverine (2024)",
+            "price": 29.99,
+            "description": "Deadpool and Wolverine join forces in an action-packed, comedic adventure across the multiverse.",
+            "category": "superhero",
+            "image": "https://example.com/images/deadpool_wolverine.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 1900
+            }
+        },
+        {
+            "id": 35,
+            "title": "Captain America: New World Order (2025)",
+            "price": 28.99,
+            "description": "Sam Wilson takes on the mantle of Captain America to face global threats and personal challenges.",
+            "category": "superhero",
+            "image": "https://example.com/images/captainamerica_nwo.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 1600
+            }
+        },
+        {
+            "id": 36,
+            "title": "The Fantastic Four: First Steps (2025)",
+            "price": 29.99,
+            "description": "Marvel’s First Family embarks on their first cinematic adventure, introducing them to the MCU.",
+            "category": "superhero",
+            "image": "https://example.com/images/fantasticfour.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 1400
+            }
+        },
+        {
+            "id": 37,
+            "title": "Avengers: Doomsday (2026)",
+            "price": 30.99,
+            "description": "The Avengers unite against a new, formidable enemy threatening the fate of the multiverse.",
+            "category": "superhero",
+            "image": "https://example.com/images/avengers_doomsday.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 2000
+            }
+        },
+        {
+            "id": 38,
+            "title": "Avengers: Secret Wars (2027)",
+            "price": 32.99,
+            "description": "The grand culmination of the Multiverse Saga as heroes from across realities unite to save existence.",
+            "category": "superhero",
+            "image": "https://example.com/images/avengers_secretwars.jpg",
+            "rating": {
+                "rate": 5.0,
+                "count": 2500
+            }
+        }
+    ]
+}
+
